@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test_canvas_app/static/css/main.43c1b5f0.chunk.css",
+    "main.js": "/test_canvas_app/static/js/main.200540e0.chunk.js",
+    "main.js.map": "/test_canvas_app/static/js/main.200540e0.chunk.js.map",
+    "runtime~main.js": "/test_canvas_app/static/js/runtime~main.89586988.js",
+    "runtime~main.js.map": "/test_canvas_app/static/js/runtime~main.89586988.js.map",
+    "static/js/2.fd50676c.chunk.js": "/test_canvas_app/static/js/2.fd50676c.chunk.js",
+    "static/js/2.fd50676c.chunk.js.map": "/test_canvas_app/static/js/2.fd50676c.chunk.js.map",
+    "static/js/3.038ade9f.chunk.js": "/test_canvas_app/static/js/3.038ade9f.chunk.js",
+    "static/js/3.038ade9f.chunk.js.map": "/test_canvas_app/static/js/3.038ade9f.chunk.js.map",
+    "index.html": "/test_canvas_app/index.html",
+    "precache-manifest.2ab09085fe873b642922bc16f09bcac4.js": "/test_canvas_app/precache-manifest.2ab09085fe873b642922bc16f09bcac4.js",
+    "service-worker.js": "/test_canvas_app/service-worker.js",
+    "static/css/main.43c1b5f0.chunk.css.map": "/test_canvas_app/static/css/main.43c1b5f0.chunk.css.map"
+  }
+}
